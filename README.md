@@ -7,7 +7,7 @@
 
 ## 🏡 Casa 2D usando OpenGL
 
-Utilizamos nesse projeto a biblioteca OpenGL para desenhar uma casa em 2D composta por formas geométricas básicas (quadrado, triângulo e círculo), aplicando transformações como translação, escala, cisalhamento (skew), e rotação.
+Utilizei nesse projeto a biblioteca OpenGL para desenhar uma casa em 2D composta por formas geométricas básicas (quadrado, triângulo e círculo), aplicando transformações como translação, escala, cisalhamento (skew), e rotação.
 
 ---
 
@@ -43,6 +43,9 @@ make
 ./casinhaa
 ```
 ---
+## Pré vizualização
+![Casa desenhada em OpenGL](/casa.png)
 
+---
 
 &nbsp;
